@@ -1,7 +1,1 @@
-# Fitness-Tracker-App
-
-App that contains 3 cards; 
-
- Before Age 18
- After Age 18
- Nutritions & Tips
+Build a project in java in App Development. The project integrates workout routines, specialized age-based programs, and detailed dietary planning into a clean, user-friendly interface.
